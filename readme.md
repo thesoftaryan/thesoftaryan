@@ -93,16 +93,11 @@ Introduction to Language Processing — a compiler built for the PHP language.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thesoftaryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesoftaryan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=thesoftaryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thesoftaryan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesoftaryan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=thesoftaryan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <br/>
 
 ## 🧩 LeetCode Stats
